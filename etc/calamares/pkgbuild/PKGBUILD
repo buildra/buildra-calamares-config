@@ -2,7 +2,7 @@ pkgname=calamares
 _pkgname=calamares
 # change number in prepare as well
 pkgver=3.3.14.r87.g3f6cd83  # placeholder; will be auto-generated
-pkgrel=1
+pkgrel=2
 pkgdesc='Distribution-independent installer framework - latest git version'
 arch=('i686' 'x86_64')
 url="https://codeberg.org/erikdubois/calamares"
@@ -57,7 +57,7 @@ source=("calamares::git+https://codeberg.org/erikdubois/calamares"
         "calamares_polkit"
 	"calamares-wrapper")
 sha256sums=('SKIP'
-            '31a07d76d5c8ffee0e88bf41119c875fafb2e0bcefdae945e748e3f9e6803d6d'
+            '6ebe8fbc54be710bc08b0ede3509a9ad32a275130e60c032e6f85fca0184f011'
             '966c5f0834039dc6a7529e75f70417ba2510b1e643ffb49fd25855ce9dc244b4'
             'e4c9b9601020f2362311b9776de1aa363f6ee5d1d78a4b171ba2630644819f5b')
 
